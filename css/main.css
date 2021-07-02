@@ -1,0 +1,9 @@
+h1{
+    color: steelblue;
+}
+small{
+    display: block;
+}
+p{
+    display: inline;
+}
